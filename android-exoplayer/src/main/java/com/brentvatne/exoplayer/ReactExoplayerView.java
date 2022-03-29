@@ -1,4 +1,4 @@
-package com.brentvatne.exoplayer;
+package com.adityaxjha.exoplayer;
 
 import android.annotation.SuppressLint;
 import android.app.Activity;
@@ -15,9 +15,9 @@ import android.view.accessibility.CaptioningManager;
 import android.widget.FrameLayout;
 import android.widget.ImageButton;
 
-import com.brentvatne.react.R;
-import com.brentvatne.receiver.AudioBecomingNoisyReceiver;
-import com.brentvatne.receiver.BecomingNoisyListener;
+import com.adityaxjha.react.R;
+import com.adityaxjha.receiver.AudioBecomingNoisyReceiver;
+import com.adityaxjha.receiver.BecomingNoisyListener;
 import com.facebook.react.bridge.Arguments;
 import com.facebook.react.bridge.Dynamic;
 import com.facebook.react.bridge.LifecycleEventListener;

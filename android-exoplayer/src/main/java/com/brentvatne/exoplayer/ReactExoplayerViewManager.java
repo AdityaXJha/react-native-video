@@ -1,4 +1,4 @@
-package com.brentvatne.exoplayer;
+package com.adityaxjha.exoplayer;
 
 import android.content.Context;
 import android.net.Uri;

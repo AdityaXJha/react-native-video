@@ -1,4 +1,4 @@
-package com.brentvatne.exoplayer;
+package com.adityaxjha.exoplayer;
 
 import com.facebook.react.bridge.ReactContext;
 import com.facebook.react.modules.network.CookieJarContainer;

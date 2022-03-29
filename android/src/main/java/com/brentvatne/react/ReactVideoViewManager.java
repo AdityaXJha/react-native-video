@@ -1,6 +1,6 @@
-package com.brentvatne.react;
+package com.adityaxjha.react;
 
-import com.brentvatne.react.ReactVideoView.Events;
+import com.adityaxjha.react.ReactVideoView.Events;
 import com.facebook.react.bridge.Arguments;
 import com.facebook.react.bridge.ReadableMap;
 import com.facebook.react.bridge.WritableMap;

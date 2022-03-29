@@ -338,7 +338,7 @@ static int const RCTVideoUnset = -1;
   _playerItemObserversSet = YES;
 }
 
-/* Fixes https://github.com/brentvatne/react-native-video/issues/43
+/* Fixes https://github.com/adityaxjha/react-native-video/issues/43
  * Crashes caused when trying to remove the observer when there is no
  * observer set */
 - (void)removePlayerItemObservers
